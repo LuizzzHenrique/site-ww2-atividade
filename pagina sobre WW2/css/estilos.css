@@ -1,0 +1,65 @@
+/*Fonte*/
+body	{
+    font-family: "Helvetica", sans-serif;
+    font-style: italic;
+    width:	80%;
+    max-width:940px;
+	margin-left:auto;
+    margin-right:auto;
+    font-size:16px;
+	line-height:1.5;
+}
+
+body{
+    background-color: bisque;
+}
+
+/*figures*/
+figure	{
+text-align:	center;
+background-color: rgb(149, 145, 145);
+border: 1px	solid black;
+max-width:100%;
+box-sizing:border-box;
+margin:	30px;
+padding:15px;
+text-align:center;
+
+}
+/*paragrafos*/ 
+p {
+    text-align: justify;
+}
+
+p{
+    color: black;
+}
+/*header*/
+header{
+   background-image: url("../img/topo.jpg");
+  
+}
+
+
+/*título principal*/
+h1{
+    color: white;
+    background-color: gray;
+    text-align: center;
+}
+
+h1	{
+    border-top: 1px	solid	rgb(10, 0, 0);	
+    border-right: 1px	solid	rgb(24, 1, 1);	
+    border-bottom: 1px	solid	rgb(14, 0, 0);
+    border-left: 1px	solid	rgb(15, 1, 1);
+}
+
+/*títulos secundários */
+h2{
+    font-family: 'Lucida Sans', sans-serif;
+    border-bottom: 2px	solid	black;
+}
+
+
+
